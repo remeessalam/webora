@@ -10,7 +10,7 @@ const Header = () => {
   const { pathname } = useLocation();
   return (
     <div className="fixed z-40 top-0 left-0 w-full backdrop-blur-md">
-      <div className="backdrop-blur-sm bg-black/50">
+      <div className="backdrop-blur-sm bg-black/80">
         <div className="flex w-full justify-between items-center gap-5 py-5 wrapper">
           <Link to="/">
             <img
@@ -37,10 +37,16 @@ const Header = () => {
             <div className="relative group text-md">
               <button className="text-md cursor-pointer">Company</button>
               <div className="absolute overflow-hidden bg-background flex flex-col top-[120%] -left-3/4 w-[15rem] translate-x-[100%] group-hover:translate-x-0 rounded-lg opacity-0 group-hover:opacity-100 transition-all duration-300">
-                <Link to="/about-us" className="hover:bg-primary/15 text-black px-5 py-3">
+                <Link
+                  to="/about-us"
+                  className="hover:bg-primary/15 text-black px-5 py-3"
+                >
                   About Us
                 </Link>
-                <Link to="/blogs" className="hover:bg-primary/15 text-black px-5 py-3">
+                <Link
+                  to="/blogs"
+                  className="hover:bg-primary/15 text-black px-5 py-3"
+                >
                   Blogs
                 </Link>
               </div>

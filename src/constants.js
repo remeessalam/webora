@@ -81,26 +81,30 @@ export const websitePagesLinks = [
 export const workingProcess = [
   {
     id: 1,
-    title: "In-Depth Consultation",
-    description: "Understand your needs, discuss goals.",
+    title: "Consultation & Strategy",
+    description:
+      "We begin with a comprehensive consultation to understand your goals and outline a strategic plan for success.",
     img: process1,
   },
   {
     id: 2,
-    title: "Strategic Planning",
-    description: "Create roadmap, define KPIs, set timeline.",
+    title: "Design & Development",
+    description:
+      "Transform ideas into reality through visually engaging design and robust development.",
     img: process2,
   },
   {
     id: 3,
-    title: "Design and Development",
-    description: "Design visually stunning, develop functional website",
+    title: "Testing & Optimization",
+    description:
+      "Ensure flawless performance through rigorous testing and continuous optimization.",
     img: process3,
   },
   {
     id: 4,
-    title: "Rigorous Testing",
-    description: "Ensure optimal performance, compatibility, security",
+    title: "Launch & Support",
+    description:
+      "Deploy the solution and provide ongoing support to maintain peak performance.",
     img: process4,
   },
 ];
@@ -482,34 +486,34 @@ export const testimonials = [
   {
     id: 1,
     img: "",
-    name: "Aarav Kapoor",
-    title: "Founder of TechSphere Innovations",
+    name: "Liam K.",
+    title: "Co-Founder at BlockMint Labs",
     description:
-      "AI Company exceeded our expectations by delivering a solution that was both innovative and perfectly aligned with our business goals. Truly a game-changer!",
+      "The team delivered a custom blockchain solution that was not only secure but incredibly efficient. Our NFT platform launched on time and ran smoothly from day one.",
   },
   {
     id: 2,
     img: "",
-    name: "Sanya Mehta",
-    title: "CTO of GreenLink Energy Solutions",
+    name: "Priya R.",
+    title: "Product Manager at PixelRealm Games",
     description:
-      "Collaborating with AI Company was a seamless experience. Their team’s expertise and commitment to excellence helped us achieve remarkable results.",
+      "From storyboarding to final release, these folks brought our vision to life. The Unity build was flawless, and players love the experience.",
   },
   {
     id: 3,
     img: "",
-    name: "Rahul Verma",
-    title: "Director of OmniTrade Logistics",
+    name: "Daniel M.",
+    title: "CEO at FitLyfe",
     description:
-      "AI Company delivered outstanding solutions tailored to our needs. Their professionalism and forward-thinking approach set them apart.",
+      "We needed a modern, scalable mobile app—and that’s exactly what we got. Beautiful design, great performance, and solid post-launch support.",
   },
   {
     id: 4,
     img: "",
-    name: "Dr. Ananya Gupta",
-    title: "CEO of MedEase Technologies",
+    name: "Nina T.",
+    title: "Operations Head at FinGuard",
     description:
-      "The team at AI Company helped us revolutionize our platform, making it highly intuitive and user-friendly. Their work speaks volumes about their expertise and passion.",
+      "Your RPA tools helped us cut manual work in half. Now, our team can focus on what really matters instead of repetitive admin tasks.",
   },
 ];
 

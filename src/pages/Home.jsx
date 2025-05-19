@@ -45,21 +45,16 @@ const Home = () => {
             </div>
             <div data-aos="fade-right" className="flex flex-col gap-5">
               <h3 className="heading">
-                Innovation to transform your organization.
+                Building the Future with Cutting-Edge Technology.
               </h3>
               <p className="description">
-                At AI Company, we are at the forefront of revolutionizing the
-                digital landscape. Our cutting-edge AI solutions, combined with
-                unmatched expertise in web and mobile development, cloud
-                computing, data analytics, and beyond, are designed to propel
-                your business into the future. Discover a world where technology
-                meets innovation, tailored to meet your unique needs. Let’s
-                build the future, together. <br />
-                <br /> At AI Company, we are at the forefront of AI innovation,
-                leveraging cutting-edge technologies to transform businesses and
-                enhance user experiences. Our AI-driven solutions are designed
-                to empower organizations with the tools they need to thrive in
-                an increasingly digital world.
+                At Webora AI, we are more than a tech company—we are a strategic
+                partner in your digital transformation journey. With expertise
+                in AI, blockchain, RPA, game development, and more, we craft
+                solutions that drive innovation and efficiency. From startups to
+                enterprises, we empower businesses to stay ahead in the digital
+                era with custom digital solutions tailored to their unique
+                needs. Let’s create a smarter, more connected world—together.
               </p>
             </div>
           </div>
@@ -82,13 +77,13 @@ const Home = () => {
                 className="md:hidden h-full w-full aspect-video rounded-xl object-cover"
               />
               <p className="description">
-                Artificial Intelligence is revolutionizing the way we interact
-                with technology. By harnessing the power of AI, businesses can
-                streamline operations, enhance decision-making, and deliver
-                personalized experiences to their customers. With advanced
-                algorithms and machine learning capabilities, we help our
-                clients unlock new opportunities and achieve their strategic
-                goals.
+                At Webora AI, we believe that Artificial Intelligence is more
+                than a technology—it’s a transformative force reshaping
+                industries. By integrating AI into business processes, we help
+                organizations streamline operations, uncover insights, and
+                deliver hyper-personalized experiences. From predictive
+                analytics to intelligent automation, we empower companies to
+                harness AI for sustainable growth and competitive advantage.
               </p>
             </div>
             <div className="md:flex hidden flex-col">
@@ -119,17 +114,18 @@ const Home = () => {
             />
           </div>
           <div className="flex flex-col gap-5">
-            <h3 className="heading">Our CEO Message</h3>
+            <h3 className="heading">Message from Our CEO</h3>
             <p className="description">
-              At AI Company, we leverage the power of AI to create
-              transformative digital experiences that elevate businesses. Our
-              commitment to innovation drives us to develop intelligent
-              solutions that enhance efficiency and foster growth. Together, we
-              can turn your ideas into reality and shape a smarter future.
+              At Webora AI, we don’t just build technology solutions—we engineer
+              progress. Our mission is to empower businesses with innovative,
+              future-ready digital products that drive growth, efficiency, and
+              lasting impact. Let’s work together to transform challenges into
+              opportunities and create a smarter, more connected world.
             </p>
           </div>
         </div>
       </section>
+
       <BrandLogos />
       <GetInTouch />
       <Footer />
