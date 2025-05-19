@@ -110,7 +110,7 @@ export const InquiryForm = () => {
   return (
     <div data-aos="fade-left" className="flex flex-col items-start gap-3 group">
       <p className="gradient-text uppercase">Let's connect</p>
-      <div className="bg-gradient-to-b from-primary to-primary/70 rounded-2xl w-fit p-7">
+      <div className="bg-gradient-to-b from-purple-600 to-purple-400 rounded-2xl w-fit p-7">
         <h2 className="text-3xl text-white font-medium">
           Connect With Our Team to Get Started!
         </h2>
