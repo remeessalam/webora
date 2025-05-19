@@ -57,11 +57,11 @@ const Header = () => {
           </div>
           <button
             title="Menu"
-            className="block lg:hidden justify-self-end"
+            className="block lg:hidden justify-self-end !text-white"
             onClick={() => setIsOpen(!isOpen)}
           >
             <Hamburger
-              color="#ffff"
+              color="#ffffff"
               size="26"
               toggled={isOpen}
               rounded
