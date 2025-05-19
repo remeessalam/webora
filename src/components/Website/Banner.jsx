@@ -69,7 +69,7 @@ const Banner = () => {
           className="flex w-full flex-col items-start justify-center relative z-10"
         >
           <p className="text-xl   tracking-wide text-white mt-2">
-            Welcome to <span className="text-primary font-bold">AI Company</span>
+            Welcome to <span className="text-primary font-bold">Webora AI</span>
           </p>
           <h1 className="heading-1 text-white capitalize">
             Empowering Your Future with AI Innovation

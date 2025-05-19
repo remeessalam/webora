@@ -3,17 +3,17 @@ export const blogs = [
     id: 1,
     image: require("../assets/blogs/1.webp"),
     title:
-      "Elevate Your Online Presence with AI Company – The Leading Website Development Company in Bangalore",
-    desc: "In today’s digital era, a professional and user-friendly website is not just a luxury but a necessity for businesses to thrive. At AI Company, a premier website development company in Bangalore, we specialize in creating cutting-edge websites that combine functionality, aesthetics, and advanced technology to drive success in the online marketplace.",
+      "Elevate Your Online Presence with Webora AI – The Leading Website Development Company in Bangalore",
+    desc: "In today’s digital era, a professional and user-friendly website is not just a luxury but a necessity for businesses to thrive. At Webora AI, a premier website development company in Bangalore, we specialize in creating cutting-edge websites that combine functionality, aesthetics, and advanced technology to drive success in the online marketplace.",
     contentHtml: `<h1 class="heading text-center mb-6">
-              Elevate Your Online Presence with AI Company – The Leading Website
+              Elevate Your Online Presence with Webora AI – The Leading Website
               Development Company in Bangalore
             </h1>
             <p class="description">
               In today’s digital era, a professional and user-friendly website is
               not just a luxury but a necessity for businesses to thrive. At
               <a href="/">
-                <b>AI Company</b>
+                <b>Webora AI</b>
               </a>
               , a premier 
               <a href="/web-development">
@@ -25,12 +25,12 @@ export const blogs = [
             </p>
   
             <h2 class="text-3xl font-semibold mb-4 mt-[4rem]">
-              Why Choose AI Company for Website Development?
+              Why Choose Webora AI for Website Development?
             </h2>
             <p class="text-lg mb-6">
               As a technology-driven company, 
               <a href="/">
-                <b>AI Company</b>
+                <b>Webora AI</b>
               </a> 
               understands that every business is unique. We focus on crafting
               customized websites that align with your brand’s identity and
@@ -64,7 +64,7 @@ export const blogs = [
             <p class="text-lg mb-6">
               At 
               <a href="/">
-                <b>AI Company</b>
+                <b>Webora AI</b>
               </a>
               , our range of services caters to diverse industries and
               requirements. Whether you’re a startup or an established enterprise,
@@ -102,14 +102,14 @@ export const blogs = [
               businesses competing in a fast-paced digital environment. Partnering
               with a reliable website development company in Bangalore like
               <a href="/">
-                <b>AI Company</b>
+                <b>Webora AI</b>
               </a> 
               ensures your brand stands out with a robust and engaging online
               presence.
             </p>
   
             <h2 class="text-3xl font-semibold mt-[4rem] mb-4">
-              The AI Company Advantage
+              The Webora AI Advantage
             </h2>
             <ul class="list-disc pl-8 space-y-4 text-lg mb-6">
               <li>
@@ -132,7 +132,7 @@ export const blogs = [
               Ready to Build Your Dream Website?
             </h2>
             <p class="text-lg mb-6">
-              Transform your online presence and drive growth with AI Company,
+              Transform your online presence and drive growth with Webora AI,
               the go-to website development company in Bangalore. Let us bring
               your ideas to life with cutting-edge solutions tailored to your
               business.
@@ -142,16 +142,16 @@ export const blogs = [
     id: 2,
     image: require("../assets/blogs/2.webp"),
     title:
-      "Transforming Ideas into Reality: Mobile App Development with AI Company",
-    desc: "In today’s digital-first world, a robust mobile app is essential for businesses to thrive and connect with their customers. At AI Company, a leading mobile app development company in Bangalore, we specialize in creating innovative, user-friendly mobile applications that help businesses stay ahead in the competitive digital landscape.",
+      "Transforming Ideas into Reality: Mobile App Development with Webora AI",
+    desc: "In today’s digital-first world, a robust mobile app is essential for businesses to thrive and connect with their customers. At Webora AI, a leading mobile app development company in Bangalore, we specialize in creating innovative, user-friendly mobile applications that help businesses stay ahead in the competitive digital landscape.",
     contentHtml: `<h1 class="heading text-center mb-6">
-        Transforming Ideas into Reality: Mobile App Development with AI Company
+        Transforming Ideas into Reality: Mobile App Development with Webora AI
       </h1>
       <p class="description">
         In today’s digital-first world, a robust mobile app is essential for
         businesses to thrive and connect with their customers. At 
         <a href="/">
-          <b>AI Company</b>
+          <b>Webora AI</b>
         </a>
         , a leading 
         <a href="/mobile-app-development">
@@ -178,10 +178,10 @@ export const blogs = [
       </p>
   
       <h2 class="text-3xl font-semibold mt-[4rem] mb-4">
-        Why Choose AI Company for Mobile App Development?
+        Why Choose Webora AI for Mobile App Development?
       </h2>
       <p class="text-lg mb-6">
-        As a premier mobile app development company in Bangalore, AI Company
+        As a premier mobile app development company in Bangalore, Webora AI
         offers:
       </p>
       <ul class="list-disc pl-8 space-y-4 text-lg mb-6">
@@ -228,7 +228,7 @@ export const blogs = [
         Experience Excellence in Mobile App Development
       </h2>
       <p class="text-lg mb-6">
-        Located in the heart of India’s tech hub, AI Company stands out as a top
+        Located in the heart of India’s tech hub, Webora AI stands out as a top
         mobile app development company in Bangalore. With our expertise and
         commitment to innovation, we transform your ideas into feature-rich mobile
         applications that drive results.

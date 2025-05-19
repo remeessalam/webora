@@ -90,7 +90,7 @@ const Banner = ({ page }) => {
                   className="description text-white mt-2"
                 >
                   In today's dynamic business landscape, having a robust online
-                  presence is vital. At AI Company, we specialize in creating
+                  presence is vital. At Webora AI, we specialize in creating
                   innovative, high-performance websites and applications
                   tailored to your specific needs. Our solutions ensure smooth
                   user experiences and build meaningful, long-lasting
@@ -107,7 +107,7 @@ const Banner = ({ page }) => {
                   className="description text-white mt-2"
                 >
                   In today's competitive landscape, a cutting-edge mobile app is
-                  crucial for success. At AI Company, we design user-friendly,
+                  crucial for success. At Webora AI, we design user-friendly,
                   high-performance apps tailored to your business needs,
                   ensuring exceptional user experiences and building strong,
                   enduring connections.

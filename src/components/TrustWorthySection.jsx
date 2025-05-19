@@ -13,7 +13,7 @@ const TrustWorthySection = () => {
           Empowering Businesses with Cutting-Edge Solutions
         </h2>
         <p data-aos="fade-up" className="description max-w-6xl mx-auto mt-2">
-          With a dedicated team and a results-driven approach, AI Company is
+          With a dedicated team and a results-driven approach, Webora AI is
           committed to delivering impactful, high-quality tech solutions that
           drive business growth and innovation.
         </p>
