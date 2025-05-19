@@ -29,9 +29,13 @@ export { logo };
 
 // client details
 export const clientDetails = {
-  phone: "0000000000",
+  phone: "9341436784",
   email: "abc@xyz.com",
-  address: "ABC Street, City, Country",
+  address: `WARD NO 04, TOWN AMBEDKAR NAGAR BARMASIA, POST B
+DEOGHAR PS DEOGHAR, Deoghar, PO: B. Deoghar, DIST: Deoghar, Jharkhand
+-814112`,
+  whatsappLink:
+    "https://api.whatsapp.com/send/?phone=9341436784&text&type=phone_number&app_absent=0",
 };
 
 // landing page header links
