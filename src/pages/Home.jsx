@@ -114,7 +114,7 @@ const Home = () => {
             />
           </div>
           <div className="flex flex-col gap-5">
-            <h3 className="heading">Message from Our CEO</h3>
+            <h3 className="heading">Vision of Our Company</h3>
             <p className="description">
               At Webora AI, we don’t just build technology solutions—we engineer
               progress. Our mission is to empower businesses with innovative,
